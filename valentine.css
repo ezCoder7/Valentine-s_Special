@@ -1,0 +1,36 @@
+#teddy{
+  margin: 70px 600px;
+  height: 300px;
+  width: 300px;
+}
+#text{
+  text-align: center;
+  font-size: 40px;
+  margin: -50px 450px;
+}
+#result{
+  margin-top: 100px;
+  margin-left: 600px;
+
+}
+#yes{
+  height: 50px;
+  width: 50px;
+  background-color: rgb(183, 236,183);
+  border-color:rgb(183, 236,183) ;
+}
+#no{
+  cursor: pointer;
+  height: 50px;
+  width: fit-content;
+  background-color: rgb(222, 83, 83);
+  border-color:rgb(222, 83, 83) ;
+  margin-left: 50px;
+}
+#kiss{
+  margin:100px 550px
+}
+#yay{
+  text-align: center;
+  font-size: 50px;
+}
